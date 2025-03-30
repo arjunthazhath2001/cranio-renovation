@@ -125,4 +125,9 @@
   .text-shadow {
     text-shadow:rgb(255, 183, 0) 1px 1px;
   }
+
+  body{
+    cursor: url("../assets/arrowhead-rounded-outline.svg"),auto;
+    
+  }
 }
