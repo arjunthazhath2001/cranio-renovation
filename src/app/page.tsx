@@ -1,11 +1,12 @@
-import Image from "next/image";
-import { DotPatternDemo } from "@/components/magicui/DotPatternDemo";
+import HomeHero from "@/sections/Home/HomeHero";
+import CollabWithMind from "@/sections/Home/CollabWithMind";
+import Navbar from "@/sections/Navbar";
 export default function Home() {
   return (
-      <DotPatternDemo>
-         HI
-
-      </DotPatternDemo>
-        
+    <>
+      <Navbar/>
+      <HomeHero />
+      <CollabWithMind />
+    </>
   );
 }
