@@ -27,7 +27,7 @@ function CollabWithMind() {
             />
             
           </div>
-          <p className={`${inter.className} text-sm md:text-lg md:px-16 mt-4 md:mt-10 tracking-tight leading-[30px]`}>In partnership with<span className='font-semibold'> the Johns Hopkins MIND</span> at Home program, we provide<span className='font-semibold'> free care navigation for dementia patients</span>, funded by Medicare’s GUIDE Model. Doctors maintain clinical control, while we offer 24/7 support between visits—improving patient outcomes and unlocking substantial<span className='font-semibold'> new revenue for each doctor.</span> </p>
+          <p className={`${inter.className} text-sm md:text-xl md:px-16 mt-4 md:mt-10 tracking-tight leading-[30px]`}>In partnership with<span className='font-semibold'> the Johns Hopkins MIND</span> at Home program, we provide<span className='font-semibold'> free care navigation for dementia patients</span>, funded by Medicare’s GUIDE Model. Doctors maintain clinical control, while we offer 24/7 support between visits—improving patient outcomes and unlocking substantial<span className='font-semibold'> new revenue for each doctor.</span> </p>
         
         </div>
   
