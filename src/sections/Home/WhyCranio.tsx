@@ -35,7 +35,7 @@ export function CarouselDemo() {
         {title: "Collaborative Care", description:"Healthcare professionals can collaborate effortlessly on our platform, streamlining communication and coordination to improve patient outcomes.\n\nThis integrated approach enhances efficiency, ensuring that patients receive timely, well-coordinated care.", image:card4},
     ]
   return (
-    <section className="mx-auto flex justify-center py-14 items-center flex-col gap-4">
+    <section className="px-10 flex justify-center py-14 items-center flex-col gap-4">
         <h1  className={`${jet.className} font-bold text-black text-3xl text-center`}>Why choose Craniometrix?</h1>
     <Carousel className="w-full max-w-xs">
       <CarouselContent>
