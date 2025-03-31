@@ -12,7 +12,7 @@ function CollabWithMind() {
     return (
       <section className="bg-[linear-gradient(to_top,#ffe566,white,white,white)] flex flex-col items-center justify-center pb-20 px-8">
   
-        <div className="container px-4">
+        <div className="container">
           <div className='flex gap-3 justify-center items-center'>
             <Image src={carnio} className='rounded-xl md:w-40' alt="carn-logo"/>
             <h1 className={`${inter.className} text-2xl text-shadow font-bold`}>X</h1>
