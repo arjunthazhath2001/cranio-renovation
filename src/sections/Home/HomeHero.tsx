@@ -13,7 +13,7 @@ const inter = Inter({
 
 function HomeHero() {
   return (
-    <section className="h-screen flex flex-col items-center justify-center pb-20 px-8">
+    <section className="h-screen flex flex-col items-center justify-center pb-32 md:pb-20 px-8">
        <div className="container mx-auto">
         <div className="flex flex-col justify-center items-center">
           <div
